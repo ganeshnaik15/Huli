@@ -1,0 +1,18 @@
+server:
+  port: 9088
+User:
+  profile:
+    host:
+      uri: http://localhost:8020
+
+  # Database Configuration
+
+  # Hibernate Configuration
+
+  #spring:
+  #  main:
+  #    allow-bean-definition-overriding: true
+
+
+  #resources:
+   # static-locations: classpath:/static/
